@@ -28,7 +28,7 @@
 - Chat list sorted by last message.
 - Last message and message time is added on chat userlist page.
 - Performance improved
-
+- Last message and message time is added on chat userlist page.
 ## [1.0.5] - 15 Apr 2020
 
 - Notification on chat message in system tray.
